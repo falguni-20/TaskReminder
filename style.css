@@ -1,0 +1,147 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 50px;
+    font-size:large;
+
+  }
+  
+  th,td {
+    border: 1px solid black;
+    padding: 8px;
+/*    text-align: center;*/
+    text-align: center;
+  }
+  
+  th {
+    /* background-color: #f2f2f2; */
+    background-color: #bddd81;
+
+  }
+
+  p{
+/*    margin-left: 200px;*/
+text-align: center;
+font-size:xx-large;
+margin-top: 50px;
+color: #bd0921;
+font-style: bold;
+  }
+.list
+{
+  text-align: center;
+  font-size:xx-large;
+}
+
+.inp{
+    width:300px ;
+    height: 30px;
+  margin:10px;
+  font-size: large;
+}
+.btn{
+  font-size:large;
+  text-align: center;
+justify-content: center;
+margin-left: 40px;
+
+
+}
+#add1{
+  margin-left: 45%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+  #toDoList{
+
+      margin-top: 25px;
+  }
+  #pri{
+    margin-left: 15px;
+  }
+
+  .yoga{
+    border: 0.1px solid #dbead9;
+    text-align:left;
+    margin: 10px;
+    height: fit-content;
+    width:70%;
+    margin-left: 13%;
+    margin-top: 15px;
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+    opacity: 1;
+  }
+  #universal{
+    background-color: #dbead9;
+  }
+  
+  /* Bottom left text */
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  /* Top left text */
+  .hello{
+    position:relative;
+    top: 8px;
+    left: 16px;
+    font-size:70px ;
+    color:rgb(124, 6, 6);
+    margin-top:3px;
+  }
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+   
+  }
+  
+  /* Bottom right text */
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:40px ;
+    color:rgb(2, 4, 3)
+   
+  }
+
+  #basics{
+    background-color:#dbead9 ;
+    /* border: 2px solid #dbead9; */
+    /* height: 70%;
+    width:80%; */
+    /* margin-left: 10%; */
+    
+    margin-top: 3%;
+    padding:8px;
+    padding-top: 3px;
+   
+  
+  }
+
+  .uss{
+    background-color:#dbead9 ;
+
+  }
+
+  #forms{
+    font-size: large;
+  }
